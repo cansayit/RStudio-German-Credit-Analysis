@@ -1,0 +1,5 @@
+"Metrik","Ilk_Model","Yeni_Model"
+"Accuracy",69.5,70.5
+"Precision",48.65,51.52
+"Recall",30,28.33
+"F1",37.11,36.56
